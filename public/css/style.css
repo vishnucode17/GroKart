@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    padding:0;
+    background:linear-gradient(rgb(54, 0, 153),rgb(31, 0, 92)) no-repeat;
+    background-size:100% 100%;
+    background-position:center;
+}
+
+.seller_form{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#addProductimg{
+    width: 100%;
+}
+#addtitle{
+    text-align: center;
+    color: white;
+    font-size:44px;
+}
+label{
+    
+}
